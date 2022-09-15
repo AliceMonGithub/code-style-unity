@@ -46,4 +46,14 @@ Visual studio по дефолту добавляет приписку Assets к 
       - И подобные вещи 
     - Другие папки. Зависит случая
   - Content
+    - Art
+    - Models
+    - Sound
+    - Animations
+    - Scenes
+    - Materials
+    - И так далее  
   - Plugins
+    - Zenject
+    - UniRx
+    - DoTween 
