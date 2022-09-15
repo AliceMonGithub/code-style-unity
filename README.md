@@ -37,6 +37,13 @@ Visual studio по дефолту добавляет приписку Assets к 
 Я придерживаюсь этого:
 
 - Assets
- - Sources
- - Content
- - Plugins
+  - Sources
+    - MonoBehaviours ( классы наследующие MonoBehaviour )
+    - Arhitecture
+      - Bootstrapper  
+      - Services
+      - StateMachine
+      - И подобные вещи 
+    - Другие папки. Зависит случая
+  - Content
+  - Plugins
