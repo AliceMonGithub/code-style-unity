@@ -71,3 +71,12 @@ https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/cod
     - Zenject
     - UniRx
     - DoTween 
+
+# Архитектура
+
+Честно говоря я постоянно узнаю о чем-то новом и меняю ее, но использую такое:
+
+Для *DI* использую *Zenject*. Для реактивности *UniRx*. В качестве твинера использую - твин из кода *DoTween*, твинер в *Unity* *LeanTransit*. Вместо *UnityEvents* использую *UltEvents*. Не использую устаревшие вещи в коде и в Unity. Обязательно *TextMeshPro* для текста в UI.
+
+Архитектура построена на *Composite Root* и *Entry Point*.
+
