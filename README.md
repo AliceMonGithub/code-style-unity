@@ -6,31 +6,31 @@
 
 # Наименование
 
-Я придерживаюсь правил от майков и .net разработчиков.
+Я придерживаюсь правил от *майков и .net разработчиков*.
 
 https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
 
 https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/coding-style.md
 
-Каждый класс должен быть обернут в namespace.
+Каждый класс должен быть обернут в *namespace*.
 
-Плохое название для namespace:
+Плохое название для *namespace*:
 
 **namespace Assets.Scripts.MonoBehaviour.Hero**
 
-Хорошее название для namespace:
+Хорошее название для *namespace*:
 
 **namespace Sources.HeroLogic**
 
-Visual studio по дефолту добавляет приписку Assets к namespace, но она не имеет смысла.
+*Visual studio* по дефолту добавляет приписку *Assets* к *namespace*, но она не имеет смысла.
 
 ***Немного о папочках***
 
-Лучше не использовать для папки с кодом название Scripts. Я решила использовать название Sources. В примере с плохим namespace'ом написано Scripts что является ошибкой. Опять же этот неймспейс создан автоматический с помощью Visual studio.
+Лучше не использовать для папки с кодом название *Scripts*. Я решила использовать название *Sources*. В примере с плохим *namespace'ом* написано *Scripts* что является ошибкой. Опять же этот *namespace* создан автоматический с помощью *Visual studio*. В *Rider* такой проблемы вроде как нет.
 
-Также лучше не использовать в namespace'е название MonoBehaviour ( ***только MonoBehaviourS*** ).
+Также лучше не использовать в *namespace'е* название *MonoBehaviour* ( ***только MonoBehaviourS*** ).
 
-В конце namespace'a лучше делать приписку ***Logic***. Иначе если название класса и namespace'а будет совпадать, то будет ошибка.
+В конце *namespace'a* лучше делать приписку ***Logic***. Иначе если название класса и *namespace'а* будет совпадать, то будет ошибка.
 
 # Папки
 
