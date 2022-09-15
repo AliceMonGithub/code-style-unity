@@ -82,4 +82,4 @@ https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/cod
 
 *UML-ка* не доделана, но возможно поможет понять )))
 
-![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
+![image](https://user-images.githubusercontent.com/88655866/190463430-3c020b32-4122-4ebe-9e9c-4db54ea35ec3.png)
