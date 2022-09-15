@@ -39,6 +39,14 @@ Visual studio по дефолту добавляет приписку Assets к 
 - Assets
   - Sources
     - MonoBehaviours ( классы наследующие MonoBehaviour )
+      - Hero
+      - Door
+      - Enemy
+      - Items
+      - UI
+        - LoadingScreen
+        - Shop
+        - MainMenu
     - Arhitecture
       - Bootstrapper  
       - Services
@@ -46,12 +54,18 @@ Visual studio по дефолту добавляет приписку Assets к 
       - И подобные вещи 
     - Другие папки. Зависит случая
   - Content
-    - Art
-    - Models
+    - Art ( 2д контент )
+    - Models ( Меши, Текстуры, Анимации в одной папке )
     - Sound
     - Animations
     - Scenes
-    - Materials
+      - Users ( папки каждого человека на которой он делает что хочет )
+      - Game ( игра )
+        - MainMenu
+        - House
+        - Outside
+      - DebugGame ( Не уверена нужно ли оно или нет, но идея в том, что Game - релиз, а DebugGame - дебаг )          
+    - Materials ( в папке материала находятся текстуры и все вещи для него )
     - И так далее  
   - Plugins
     - Zenject
