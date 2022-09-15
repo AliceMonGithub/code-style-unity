@@ -80,3 +80,6 @@ https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/cod
 
 Архитектура построена на *Composite Root* и *Entry Point*.
 
+*UML-ка* не доделана, но возможно поможет понять )))
+
+![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
