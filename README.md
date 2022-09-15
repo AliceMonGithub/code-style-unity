@@ -16,7 +16,7 @@ https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/cod
 
 Плохое название для namespace:
 
-**namespace Assets.Scripts.MonoBehaviour.Hero **
+**namespace Assets.Scripts.MonoBehaviour.Hero**
 
 Хорошее название для namespace:
 
