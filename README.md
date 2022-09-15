@@ -16,11 +16,11 @@ https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/cod
 
 Плохое название для namespace:
 
-namespace Assets.Scripts.MonoBehaviour.Hero
+**namespace Assets.Scripts.MonoBehaviour.Hero **
 
 Хорошее название для namespace:
 
-namespace Sources.HeroLogic
+**namespace Sources.HeroLogic**
 
 Visual studio по дефолту добавляет приписку Assets к namespace, но она не имеет смысла.
 
@@ -32,3 +32,11 @@ Visual studio по дефолту добавляет приписку Assets к 
 
 В конце namespace'a лучше делать приписку ***Logic***. Иначе если название класса и namespace'а будет совпадать, то будет ошибка.
 
+# Папки
+
+Я придерживаюсь этого:
+
+- Assets
+- Sources
+- Content
+- Plugins
