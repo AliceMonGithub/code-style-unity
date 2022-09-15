@@ -37,6 +37,6 @@ Visual studio по дефолту добавляет приписку Assets к 
 Я придерживаюсь этого:
 
 - Assets
-  - Sources
-  - Content
-  - Plugins
+ - Sources
+ - Content
+ - Plugins
